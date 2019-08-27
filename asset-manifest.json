@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iprogrammer/static/css/main.99dba7ad.chunk.css",
+    "main.js": "/iprogrammer/static/js/main.7ed79652.chunk.js",
+    "main.js.map": "/iprogrammer/static/js/main.7ed79652.chunk.js.map",
+    "runtime~main.js": "/iprogrammer/static/js/runtime~main.b6564a6d.js",
+    "runtime~main.js.map": "/iprogrammer/static/js/runtime~main.b6564a6d.js.map",
+    "static/js/2.45f1e295.chunk.js": "/iprogrammer/static/js/2.45f1e295.chunk.js",
+    "static/js/2.45f1e295.chunk.js.map": "/iprogrammer/static/js/2.45f1e295.chunk.js.map",
+    "index.html": "/iprogrammer/index.html",
+    "precache-manifest.89c95ff38e1893a4d38fc3250a46630f.js": "/iprogrammer/precache-manifest.89c95ff38e1893a4d38fc3250a46630f.js",
+    "service-worker.js": "/iprogrammer/service-worker.js",
+    "static/css/main.99dba7ad.chunk.css.map": "/iprogrammer/static/css/main.99dba7ad.chunk.css.map"
+  }
+}
